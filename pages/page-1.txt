@@ -1,0 +1,7 @@
+Vous êtes un chevalier de la table ronde, votre devoir est de récupérer excalibur
+Pour ce réaliser votre quêtes vous ferrez fasse à différent choix qui auront différent impact sur votre aventure
+Nous allons maintenant commencer vos partez du châteaux du rois et vous avez le choix de prendre
+avec vous Lancelot ou de partir seul
+
+[2] Partir seul
+[3] Partir avec Lancelot
